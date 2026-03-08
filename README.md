@@ -12,7 +12,7 @@
 [  0.121s] Attempting to continue anyway.......... sure, why not
 [  1.337s] WARNING: /home/sayamew/projects/ has not been touched in 300 days
 [  1.338s] WARNING: commit history shows only "fix", "fix2", "ok NOW fix", "pls"
-[  1.339s] ERROR: Sayameow has barely any commits or projects
+[  1.339s] ERROR: Sayamew has barely any commits or projects
 [  1.340s] CRITICAL: no one knows what this repo does, including the author
 [  1.341s] PANIC: system is panicking
 [  1.342s] PANIC: still panicking
