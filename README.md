@@ -5,7 +5,7 @@
 
 
 ```
-[  0.001s] Booting sayameow kernel...
+[  0.001s] Booting sayamew kernel...
 [  0.042s] Loading cats into memory.............. OK
 [  0.043s] Loading dogs into memory.............. SKIP (wrong)
 [  0.120s] Mounting /dev/caffeine................. FAILED
