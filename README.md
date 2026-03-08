@@ -10,9 +10,9 @@
 [  0.043s] Loading dogs into memory.............. SKIP (wrong)
 [  0.120s] Mounting /dev/caffeine................. FAILED
 [  0.121s] Attempting to continue anyway.......... sure, why not
-[  1.337s] WARNING: /home/sayamew/projects/ has not been touched in 300 days
+[  1.337s] WARNING: Sayamew has forgotten to use github for 300 days
 [  1.338s] WARNING: commit history shows only "fix", "fix2", "ok NOW fix", "pls"
-[  1.339s] ERROR: Sayamew has barely any commits or projects
+[  1.339s] ERROR: Could not determine sanity level
 [  1.340s] CRITICAL: no one knows what this repo does, including the author
 [  1.341s] PANIC: system is panicking
 [  1.342s] PANIC: still panicking
